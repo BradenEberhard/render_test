@@ -1,0 +1,36 @@
+su: ignoring --preserve-environment, it's mutually exclusive with --login
+
+Attaching package: ‘bslib’
+
+The following object is masked from ‘package:utils’:
+
+    page
+
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.5.2     ✔ tibble    3.2.1
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.0.4     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+Loading required package: showtextdb
+
+Attaching package: ‘DT’
+
+The following objects are masked from ‘package:shiny’:
+
+    dataTableOutput, renderDataTable
+
+
+Listening on http://127.0.0.1:34605
+Warning: The arguments of `page_navbar()` for navbar options (including `position`,
+`bg`) have been consolidated into a single `navbar_options` argument and was
+deprecated in bslib 0.9.0.
+ℹ See `navbar_options()` for more details.
+ℹ The deprecated feature was likely used in the bslib package.
+  Please report the issue at <https://github.com/rstudio/bslib/issues>.
+Terminated
+

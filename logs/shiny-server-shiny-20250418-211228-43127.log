@@ -1,0 +1,8 @@
+su: ignoring --preserve-environment, it's mutually exclusive with --login
+Loading required package: sysfonts
+Loading required package: showtextdb
+Error in check_font_path(regular, "regular") : 
+  font file not found for 'regular' type
+Calls: runApp ... eval -> ..stacktraceon.. -> font_add -> check_font_path
+Execution halted
+
