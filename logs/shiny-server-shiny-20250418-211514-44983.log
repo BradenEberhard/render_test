@@ -1,0 +1,143 @@
+su: ignoring --preserve-environment, it's mutually exclusive with --login
+Loading required package: sysfonts
+Loading required package: showtextdb
+
+Listening on http://127.0.0.1:44983
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)) :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  font family 'Azeret Mono' not found, will use 'sans' instead
+Terminated
+

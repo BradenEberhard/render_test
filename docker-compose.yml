@@ -7,6 +7,7 @@ services:
       - "3838:3838"
     volumes:
       - .:/srv/shiny-server
+      - ./logs:/var/log/shiny-server
     environment:
       - SHINY_PORT=3838
       - SHINY_HOST=0.0.0.0
