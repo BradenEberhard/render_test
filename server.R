@@ -1,6 +1,6 @@
 
 function(input, output, session) {
-  # mod_player_leaderboard_server("player_leaderboard", all_player_stats)
+  mod_player_leaderboard_server("player_leaderboard", all_player_stats)
   observeEvent(input$go_home, {
     # Change the active panel to "Home" when the logo is clicked
     updateNavbarPage(session, "page_navbar", selected = "Home")

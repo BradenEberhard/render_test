@@ -43,18 +43,18 @@ abc_gray <- "#6E8387"
 
 # Source Files ------------------------------------------------------------
 # Source functions from the utils folder
-# list.files("utils", pattern = "\\.R$", full.names = TRUE) %>%
-#   purrr::walk(source)
+list.files("utils", pattern = "\\.R$", full.names = TRUE) %>%
+  purrr::walk(source)
 
-# # Source functions from the fcts folder
-# list.files("fcts", pattern = "\\.R$", full.names = TRUE) %>%
-#   purrr::walk(source)
+# Source functions from the fcts folder
+list.files("fcts", pattern = "\\.R$", full.names = TRUE) %>%
+  purrr::walk(source)
 
-# # Source module logic from the modules folder
-# list.files("modules", pattern = "\\.R$", full.names = TRUE) %>%
-#   purrr::walk(source)
+# Source module logic from the modules folder
+list.files("modules", pattern = "\\.R$", full.names = TRUE) %>%
+  purrr::walk(source)
 
-# # Source module logic from the proxies folder
+# Source module logic from the proxies folder
 list.files("proxies", pattern = "\\.R$", full.names = TRUE) %>%
   purrr::walk(source)
 
