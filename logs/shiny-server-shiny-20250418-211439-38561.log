@@ -1,7 +1,0 @@
-su: ignoring --preserve-environment, it's mutually exclusive with --login
-Loading required package: sysfonts
-Loading required package: showtextdb
-
-Listening on http://127.0.0.1:38561
-Terminated
-

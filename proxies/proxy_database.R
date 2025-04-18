@@ -30,14 +30,13 @@ get_db_pool <- local({
   function() {
     if (is.null(pool)) {
       # Initialize the pool if it hasn't been created
-
       pool <<- pool::dbPool(
         drv = RPostgres::Postgres(),
-        dbname = Sys.getenv("DB_NAME"),
-        host = Sys.getenv("DB_HOST"),
-        port = Sys.getenv("DB_PORT"),
-        user = Sys.getenv("DB_USER"),
-        password = Sys.getenv("DB_PASSWORD")
+        dbname = "defaultdb",
+        host = "pg-8b4dfb5-braden-6be4.e.aivencloud.com",
+        port = "25023",
+        user = "avnadmin",
+        password = "AVNS_T7Gql-wh0Rp_qQf_1Yg"
       )
       # Ensure the pool is closed when the app stops
       onStop(function() {

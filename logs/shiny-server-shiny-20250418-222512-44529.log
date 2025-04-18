@@ -25,10 +25,12 @@ The following objects are masked from ‘package:shiny’:
     dataTableOutput, renderDataTable
 
 
-Listening on http://127.0.0.1:46205
+Listening on http://127.0.0.1:44529
 Warning: The arguments of `page_navbar()` for navbar options (including `position`,
 `bg`) have been consolidated into a single `navbar_options` argument and was
 deprecated in bslib 0.9.0.
 ℹ See `navbar_options()` for more details.
 ℹ The deprecated feature was likely used in the bslib package.
   Please report the issue at <https://github.com/rstudio/bslib/issues>.
+Terminated
+
