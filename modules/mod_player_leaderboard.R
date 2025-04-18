@@ -49,7 +49,6 @@ mod_player_leaderboard_server <- function(id, all_player_stats){
       }
     })
 
-
     thrower_table <- reactiveVal(NULL)
     receiver_table <- reactiveVal(NULL)
     defense_table <- reactiveVal(NULL)
