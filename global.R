@@ -59,7 +59,9 @@ list.files("proxies", pattern = "\\.R$", full.names = TRUE) %>%
   purrr::walk(source)
 
 # Data --------------------------------------------------------------------
-load_dot_env("./etc/secrets/.env")
+if (file.exists(".env")) {
+  dotenv::load_dot_env(".env")
+}
 
 # Playground --------------------------------------------------------------
 
