@@ -37,7 +37,7 @@ RUN install2.r --error \
     glue \
     DT
 
-COPY ./fonts/ /usr/share/fonts/truetype/
+COPY ./fonts/ /srv/shiny-server/fonts/
 
 # Update font cache to include the new fonts
 RUN fc-cache -f -v
@@ -49,7 +49,5 @@ COPY . /srv/shiny-server/
 RUN chown -R shiny:shiny /srv/shiny-server
 
 EXPOSE 3838
-
-CMD ["R", "-e", "shiny::runApp('/srv/shiny-server', port=3838, host='0.0.0.0')"]
 
 CMD ["/usr/bin/shiny-server"]

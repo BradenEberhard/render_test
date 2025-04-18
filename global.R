@@ -1,10 +1,5 @@
 # Welcome to the Comanalysis website
 
-options(shiny.error = function() { 
-  print("!!! SHINY ERROR:")
-  traceback()
-})
-
 # Dependencies ------------------------------------------------------------
 
 library(shiny)
@@ -26,8 +21,8 @@ library(promises)
 library(DT)
 
 # Setup -------------------------------------------------------------------
-font_add("Azeret Mono", "/usr/share/fonts/truetype/AzeretMono-Regular.ttf")
-font_add("Mina", "/usr/share/fonts/truetype/Mina-Regular.ttf")
+font_add("Azeret Mono", "./fonts/AzeretMono-Regular.ttf")
+font_add("Mina", "./fonts/Mina-Regular.ttf")
 
 showtext_auto()
 

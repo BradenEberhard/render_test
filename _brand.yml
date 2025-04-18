@@ -1,0 +1,26 @@
+meta:
+  name: com_brand.yml
+  link: https://posit-dev.github.io/brand-yml
+
+logo: 
+  small: "www/logo.png"
+
+color:
+  palette:
+    white: "#FCFAFA"
+    black: "#1B1E26"
+    blue: "#033860"
+    teal: "#62929E"
+    gold: "#E6AF2E"
+    gray: "#6E8387"
+  primary: blue
+  secondary: black
+  danger: teal
+
+typography:
+  fonts:
+    - family: Azeret Mono
+      source: google
+  base: Azeret Mono
+  headings: Azeret Mono
+  
