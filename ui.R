@@ -10,7 +10,7 @@ Sed eu metus at nisi volutpat sagittis. Praesent ac nisi nec ipsum dignissim tem
 
 Curabitur vestibulum tristique nulla, sit amet pulvinar ex volutpat at. Nulla eget tortor sed nunc vehicula malesuada. Morbi sed sapien sit amet orci facilisis tincidunt. Nam volutpat porttitor augue. Cras sit amet ligula felis. Fusce sodales vestibulum arcu ac volutpat. Donec malesuada fermentum diam, ut congue purus sodales nec.
 "
-# team_message <- Sys.getenv("DB_HOST", unset = "Default message")
+team_message <- Sys.getenv("DB_HOST", unset = "Default message")
 
 shinyUI(
   tagList(
@@ -58,7 +58,7 @@ shinyUI(
 
       ),
       nav_panel(title = "Game Center", align = "left", p("Game content")),
-      # nav_panel(title = "Teams", align = "left", p(team_message)),
+      nav_panel(title = "Teams", align = "left", p(team_message)),
       nav_panel(title = "Players", align = "left", page_navbar(
         position = "static-top",
         bg = abc_gray,
